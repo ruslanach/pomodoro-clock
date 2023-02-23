@@ -1,0 +1,8 @@
+{
+  "short_name": "Clock_25_5",
+  "name": "Clock 25+5",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
